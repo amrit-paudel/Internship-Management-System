@@ -1,3 +1,16 @@
+# What I learned from this project
+- Problem-Solving: Demonstrated strong problem-solving skills through the design and implementation of complex features, debugging, and optimization.
+- Adaptability: Proven ability to learn and apply new technologies quickly. Although the project was built with PHP, the principles and best practices I followed are applicable to modern technologies like Node.js, Python (Django/Flask), Ruby on Rails, or any other language/framework.
+- Server-Side Scripting: Utilized PHP to build robust backend logic, handling CRUD operations, and business logic
+- Database Management, Database connection
+- SQL commands
+- API Development
+- Responsive Design
+- Dynamic Web Interactions
+  ![image](https://github.com/amrit-paudel/Internship-Management-System/assets/109169586/61db4dd0-a648-4c85-8e8a-dec058aeb172)
+
+
+
 # ABOUT PROJECT
 Students can log in to the system
 It would show all the available internship with all the necessary details such as: location, interview date, duration and so on
